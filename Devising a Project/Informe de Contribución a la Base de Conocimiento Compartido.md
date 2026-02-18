@@ -1,0 +1,25 @@
+# ISPP – Grupo 11 - Current
+## 18/02/202
+## DEVISING A PROJECT (#DP)
+## INFORME DE CONTRIBUCIÓN A LA BASE DE CONOCIMIENTO COMPARTIDA
+
+### Link a la base de conocimiento compartida
+Feedback.xlsx
+
+### Contenido aportado
+El contenido que hemos aportado a la base de conocimiento compartida se puede ver en la sexta página del documento, la que se llama “Grupo 11 – Current"
+
+El contenido está dividido por fechas (una por cada día en el que hemos recibido feedback), y cada fecha está dividida en dos secciones: Fortalezas de Current y Debilidades de Current. 
+En estas secciones se puede ver el feedback específico para nuestro grupo.
+
+En la séptima pestaña está el contenido del feedback general. Para realizar esta sección, cada grupo ha subido los apuntes que habían tomado, y se han sintetizado para no repetirse datos y facilitar su lectura.
+
+Disponemos el contenido aportado por nuestro grupo con 4 columnas, en las que aparecen la fecha y el feedback tanto general como específico. 
+El contenido de la columna del feedback general es exactamente lo que se compartió para ayudar a la sintetización
+
+| Fecha | Feedback General | Fortalezas Current | Debilidades Current |
+| :--- | :--- | :--- | :--- |
+| 05/02/2026 | -Tratar siempre de tocar todos los apartados y temas que se piden en las hojas de requisitos de la presentación <br><br> -A la hora de presentar, intentar mirar siempre al público (o mirar a las 4 esquinas de la clase). <br><br> -Utilizar en la presentación una letra lo suficientemente grande como para que lo puedan ver desde el fondo de la clase. Mantener homogeneidad y coherencia entre las diapositivas de la presentación. <br><br> -Llevar el tiempo de presentación muy bien medido, ni pasarse ni quedarse corto. <br><br> -Utilizar un killer opener, de forma que se llame la atención del público al inicio. Debe centrarse principalmente en los problemas que resolvemos con la app <br><br> -El orden de la presentación y los puntos tratados debe seguir un orden cronológico sensato, generando cierta fluidez en el paso de un punto a otro | Buen hilo argumental | - Debemos presentarnos los que vamos a realizar la presentación <br><br> - La tabla de competidores no se veía por la cantidad de contenido <br><br> - SWOT con demasiado texto <br><br> - No hacer preguntas de levantar la mano, porque si nadie responde queda fatal <br><br> - Nos presentan la duda de en qué nos diferenciamos con Google calendar, que es demasiado parecido <br><br> - Nos avisan de que el concepto de calendario "semi-privado" no es novedoso <br><br> - Nos avisan de que modelo de monetización por promoción no es seguro al principio, por la necesidad tan alta de usuarios, y porque la gente tiende a ignorar los eventos promocionados <br><br> - Nos recomiendan que potenciemos la parte del sistema de recomendación |
+| 12/02/2026 | -A la hora de presentar las especificaciones técnicas y el conjunto de tecnologías a usar, tener en cuenta los posibles riesgos que presentan (por ejemplo, la falta de conocimiento sobre estas en el grupo y por lo tanto necesidad de formación) y las formas de mitigación. <br><br> -Se valora positivamente el uso de mockups en la presentación y que se presente la relación de estos con las historias de usuario. <br><br> -Las presentaciones cada semana deben de ser independientes de las realizadas previamente, por lo tanto, si es posible no mencionarlas durante la presentación. <br><br> -El uso de QRs para presentar los mockups es interesante, pero no ponerlos durante la presentación, sino al final, para evitar que el público se distraiga y dejar que quien quiera bichear lo haga tras la presentación. <br><br> -Es necesario dar feedback al resto de grupos, siempre de forma constructiva, y los profesores se van a asegurar de ello eligiendo gente del público para que digan o comenten algo de forma obligatoria. <br><br> -A la hora de elegir los colores de la presentación y el texto, tener en cuenta que deben de presentar suficiente contraste como para que sea legible desde el fondo de la clase. | - Muy bien representar los sprint como el diagrama de Gant simplificado <br><br> - Buena presentación de los ICP (Ideal Costumer Profile) <br><br> - Buena imagen de marca con la nutria | - Presentar el dafo como debilidades contra fortalezas y amenazas contra oportunidades <br><br> - Unir el killer opener con la idea <br><br> - Pensar y presentar cómo se van a captar las preferencias de los usuarios <br><br> - Orden de análisis de competidores no adecuado. Buenas diapositivas, pero cambiar el orden <br><br> - Presentar el equipo de una manera más estructurada. Y si se hace con fotos, que todas las fotos sean iguales <br><br> - Contar que vamos a hacer de integración continua <br><br> - Que las diapositivas sigan una armonía (e.g todo mismo formato: título mismo sitio...) <br><br> - Hacer los riesgos y mitigaciones del stack tecnológico <br><br> - Encontrar varios tipos de usuarios piloto para cada bloque |
+
+### Acciones de consolidación
