@@ -3,6 +3,13 @@
 ## SPRINT 2 (#S2)
 ## INFORME DE CONTRIBUCIÓN A LA BASE DE CONOCIMIENTO COMPARTIDA
 
+| Versión | Fecha | Descripción |
+| :--- | :--- | :--- |
+| 1.0 | 20/03/2026 | Versión inicial del documento |
+| 1.1 | 23/03/2026 | Añadir tabla de versiones e introducción |
+
+En este documento se detalla la contribución del equipo Current a la base de conocimiento compartida por todos los grupos de tarde de la asignatura Ingeniería del Software y Práctica Profesional. Esta base de conocimiento compartido está hecha con docosaurus, con lo que se puede acceder tanto a la versión desplegada con su interfaz de usuario, como al repositorio de GitHub donde se pueden ver las acciones de contribución de cada uno
+
 ### Enlace a la base de conocimiento compartida
 [Base de conocimiento](https://asoult10.github.io/Knowledge-Base-Turno-De-Tarde-ISPP-25-26/) 
 
