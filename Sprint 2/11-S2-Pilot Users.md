@@ -3,6 +3,12 @@
 ## SPRINT 2 (#S2)
 ## LISTA DE USUARIOS PILOTO
 
+| Versión | Fecha | Descripción |
+| :--- | :--- | :--- |
+| 1.0 | 23/03/2026 | Versión inicial del documento |
+| 1.1 | 23/03/2026 | Añadir tabla de versiones e introducción |
+
+
 En este documento se desglosa de manera anonimizada los usuarios pilotos que prueban nuestra app. Esta lista está dividida en 3 según el sector de clientela al que pertenecen, que puede ser: Asistente a Eventos, Gestor de Comunidades, o Empresa
 
 ### Asistente de Eventos
