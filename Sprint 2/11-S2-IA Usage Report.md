@@ -3,6 +3,11 @@
 ## SPRINT 2 (#S2)
 ## INFORME DE IMPLEMENTACIÓN Y USO DE LA INTELIGENCIA ARTIFICIAL 
 
+| Versión | Fecha | Descripción |
+| :--- | :--- | :--- |
+| 1.0 | 25/03/2026 | Versión inicial del documento |
+| 1.1 | 25/03/2026 | Añadir tabla de versiones |
+
 ---
 
 ### 1. Introducción
