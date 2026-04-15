@@ -6,6 +6,7 @@
 | Versión | Fecha | Descripción |
 | :--- | :--- | :--- |
 | 1.0 | 15/04/2026 | Versión inicial del documento |
+| 1.1 | 15/04/2026 | Cambio de enlace de la demo |
 
 ## Introducción
 
@@ -14,4 +15,4 @@ En la descripción del vídeo hay marcas de tiempo donde se indica en que moment
 
 ## Enlace
 
-[https://youtu.be/KmiX3Ia1rjM](https://youtu.be/KmiX3Ia1rjM)
+[https://youtu.be/KmiX3Ia1rjM](https://youtu.be/EyK7ECOYiUQ)
