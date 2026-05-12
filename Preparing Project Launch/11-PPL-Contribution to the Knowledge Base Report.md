@@ -6,6 +6,7 @@
 | Versión | Fecha | Descripción |
 | :--- | :--- | :--- |
 | 1.0 | 12/05/2026 | Versión inicial del documento |
+| 1.1 | 12/05/2026 | Añadir fechas de commits |
 
 En este documento se detalla la contribución del equipo Current a la base de conocimiento compartida por todos los grupos de tarde de la asignatura Ingeniería del Software y Práctica Profesional. Esta base de conocimiento compartido está hecha con docosaurus, con lo que se puede acceder tanto a la versión desplegada con su interfaz de usuario, como al repositorio de GitHub donde se pueden ver las acciones de contribución de cada uno
 
@@ -19,7 +20,7 @@ Con respecto al feedback general de las categorías, se ha decidido que el Grupo
 Technology Stack (referente a todo lo relacionado con nuestra elección de stack tecnológico), y Workplan & Sprint planning (referente a la gestión de nuestro backlog y a la priorización de tareas).
 Todo este feedback se puede ver dentro de la base de conocimiento, sección "Buscar por categorías" y el archivo correspondiente con cada una de las 3 categorías mencionadas
 
-En cuanto al feedback respectivo al Grupo 11, se puede ver de misma manera en la carpeta del grupo 11, el archivo llamado "PPL". Ese archivo a su vez se puede diferenciar en 2 secciones: una para el día XX de Abril, y otra para el XX de Abril. En ambos días se señalan nuestras fortalezas y debilidades
+En cuanto al feedback respectivo al Grupo 11, se puede ver de misma manera en la carpeta del grupo 11, el archivo llamado "PPL". Ese archivo a su vez se puede diferenciar en 2 secciones: una para el día 16 de Abril, y otra para el 30 de Abril. En ambos días se señalan nuestras fortalezas y debilidades
 
 ### Acciones de consolidación
 En cuanto a las acciones de consolidación tomadas durante este entregable, se pueden ver en el siguiente repositorio público de GitHub:
@@ -27,7 +28,7 @@ En cuanto a las acciones de consolidación tomadas durante este entregable, se p
 https://github.com/ASoult10/Knowledge-Base-Turno-De-Tarde-ISPP-25-26.git
 
 En ese repositorio (que tiene la misma estructura que la base de conocimiento compartido), se pueden ver todos los commits realizados por este grupo para consolidar el feedback. Para ello deben buscar los commits realizados por el usuario
-mpradoj04 (dichos cambios han sido realizados los días XX y XX de XXX), usuario correspondiente a uno de los miembros del grupo 11. 
+mpradoj04 (dichos cambios han sido realizados los días 16 de abril y 12 de mayo), usuario correspondiente a uno de los miembros del grupo 11. 
 
 Recalcar que los commits los ha hecho un único representante para facilitar tanto la corrección al profesorado, como para mantener un orden, pero el trabajo corresponde a todo Current y han sido varias las personas involucradas en este proceso
 
