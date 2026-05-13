@@ -7,6 +7,7 @@
 | :--- | :--- | :--- |
 | 1.0 | 12/05/2026 | Versión inicial del documento |
 | 1.1 | 12/05/2026 | Cambio de nombre del documento|
+| 1.2 | 13/05/2026 | Añadir link al vídeo |
 
 ## Introducción
 
@@ -14,4 +15,4 @@ En este documento se adjunta el link a la demo usada durante la presentación de
 para poder explicar el funcionamiento de la misma
 
 ## Enlace
-Por determinar
+https://youtu.be/C6Hu8JHK1I4
