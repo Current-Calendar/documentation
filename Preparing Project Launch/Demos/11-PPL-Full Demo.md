@@ -6,6 +6,7 @@
 | Versión | Fecha | Descripción |
 | :--- | :--- | :--- |
 | 1.0 | 12/05/2026 | Versión inicial del documento |
+| 1.1 | 13/05/2026 | Link del vídeo |
 
 ## Introducción
 
@@ -14,4 +15,4 @@ En la descripción del vídeo hay marcas de tiempo donde se indica en que moment
 
 ## Enlace
 
-[https://youtu.be/BUyq3zMDGmk](https://youtu.be/BUyq3zMDGmk)
+https://youtu.be/y3RPOOuIehM
