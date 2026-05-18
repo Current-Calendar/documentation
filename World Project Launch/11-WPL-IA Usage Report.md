@@ -1,11 +1,12 @@
 # ISPP – Grupo 11 - Current
-## 29/04/2026
-## Preparing Project Launch (#PPL)
+## 18/05/2026
+## WORLD PROJECT LAUNCH (#WPL)
 ## INFORME DE IMPLEMENTACIÓN Y USO DE LA INTELIGENCIA ARTIFICIAL
 
 | Versión | Fecha | Descripción |
 | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Versión inicial del documento. |
+| 1.1 | 18/05/2026 | Corregir la fecha |
 
 ---
 
