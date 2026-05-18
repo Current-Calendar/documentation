@@ -7,6 +7,7 @@
 | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Versión inicial del documento |
 | 1.1 | 18/05/2026 | Añadir tag WPL |
+| 1.2 | 18/05/2026 | Añadir día de los commits |
 
 En este documento se detalla la contribución del equipo Current a la base de conocimiento compartida por todos los grupos de tarde de la asignatura Ingeniería del Software y Práctica Profesional. Esta base de conocimiento compartido está hecha con docosaurus, con lo que se puede acceder tanto a la versión desplegada con su interfaz de usuario, como al repositorio de GitHub donde se pueden ver las acciones de contribución de cada uno
 
@@ -28,7 +29,7 @@ En cuanto a las acciones de consolidación tomadas durante este entregable, se p
 https://github.com/ASoult10/Knowledge-Base-Turno-De-Tarde-ISPP-25-26.git
 
 En ese repositorio (que tiene la misma estructura que la base de conocimiento compartido), se pueden ver todos los commits realizados por este grupo para consolidar el feedback. Para ello deben buscar los commits realizados por el usuario
-mpradoj04 (dichos cambios han sido realizados el día xx de Mayo), usuario correspondiente a uno de los miembros del grupo 11. 
+mpradoj04 (dichos cambios han sido realizados el día 18 de Mayo), usuario correspondiente a uno de los miembros del grupo 11. 
 
 Recalcar que los commits los ha hecho un único representante para facilitar tanto la corrección al profesorado, como para mantener un orden, pero el trabajo corresponde a todo Current y han sido varias las personas involucradas en este proceso
 
