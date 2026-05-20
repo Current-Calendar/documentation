@@ -1,11 +1,12 @@
 # ISPP – Grupo 11 - Current
 ## 13/05/2026
-## Preparing Project Launch (#PPL)
+## World Project Launch (#WPL)
 ## LINK A LA LANDING DE CURRENT
 
 | Versión | Fecha | Descripción |
 | :--- | :--- | :--- |
 | 1.0 | 18/05/2026 | Versión inicial del documento |
+| 1.1 | 20/05/2026 | Corregir nombre entregable |
 
 ## Introducción
 
